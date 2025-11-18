@@ -1,0 +1,17 @@
+
+fastapi 
+uvicorn
+scikit-learn 
+numpy 
+pandas 
+joblib
+matplotlib
+seaborn
+xgboost
+flask_cors
+Flask-SQLAlchemy
+flask-migrate
+flask-bcrypt
+flask-jwt-extended
+python-dotenv
+pymysql
