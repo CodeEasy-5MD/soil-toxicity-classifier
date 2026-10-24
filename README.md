@@ -4,7 +4,7 @@
 - Classes: has four classes, low, medium, high, critical
 
 ## Model
-- Type: ANN, built on keras
+- Type: XGBoost, built on keras
 
 ## Limitations
 [At least one honest limitation. See below.]
